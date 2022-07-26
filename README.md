@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrey 👋
 
-I do QA things. I really enjoy learning languages and work on test automation, improving things, discover modern approaches. You can check out test automation frameworks that I built on my repo page https://github.com/andrey-yudin-7?tab=repositories
+I do QA things. I really enjoy learning languages and work on test automation, discover new approaches on improving things. You can check out test automation frameworks that I built with detailed descriptions on my repo page https://github.com/andrey-yudin-7?tab=repositories
 
 
 Thanks for visiting!
