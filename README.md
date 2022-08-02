@@ -1,6 +1,6 @@
 ### <b><h3>Hi there, I'm Andrey 👋</b></h3> 
 
-I do QA things. I really enjoy learning languages and work on test automation, discover new approaches on improving things. You can check out test automation frameworks that I built with detailed descriptions on my [repo page](https://github.com/andrey-yudin-7?tab=repositories){:target="_blank"}:
+I do QA things. I really enjoy learning languages and work on test automation, discover new approaches on improving things. You can check out test automation frameworks that I built with detailed descriptions on my [repo page](https://github.com/andrey-yudin-7?tab=repositories):
 
 <b><h3>[JiraAPIFramework](https://github.com/andrey-yudin-7/JiraAPIFramework)</b></h3>
 <b><h3><a href="https://github.com/andrey-yudin-7/JiraAPIFramework" target="_blank">external link</a></b></h3>
