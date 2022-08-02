@@ -15,7 +15,7 @@ Appium test automation project built using Java, Maven (build management tool) w
 
 As the test target of this project as an example used 2 free apps for Android OS - ApiDemo and Ecommerce app.
 
-Thanks for visiting!
+<b>Thanks for visiting!</b>
 
 <!--
 **andrey-yudin-7/andrey-yudin-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
