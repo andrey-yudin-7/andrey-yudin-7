@@ -1,6 +1,6 @@
 ### <b><h3>Hi there, I'm Andrey 👋</b></h3> 
 
-I do QA things. I really enjoy learning languages and work on test automation, discover new approaches on improving things. You can check out test automation frameworks that I built with detailed descriptions on my [repo page](https://github.com/andrey-yudin-7?tab=repositories):
+I really enjoy to work on test automation, discover new approaches on improving things. You can check out test automation frameworks that I built with detailed descriptions on my [repo page](https://github.com/andrey-yudin-7?tab=repositories):
 
 <b><h3><a href="https://github.com/andrey-yudin-7/JiraAPIFramework" target="_blank">JiraAPIFramework</a></b></h3>
 Rest API Automation project built using Java, Maven (build management tool), Cucumber, Rest Assured dependencies, Data Driven concepts from external resources, generating Logs, Reports. As the test target of this project as an example used Atlassian Jira with Validating it's basic issue API's: the issue creating, add comment, add attachment, delete the issue.
