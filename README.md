@@ -8,7 +8,7 @@ Rest API Automation project built using Java, Maven (build management tool), Cuc
 <b><h3>[SeleniumFramework](https://github.com/andrey-yudin-7/SeleniumFramework)</b></h3>
 Selenium Java project with Page Object Mechanism (designing patterns for tests development) built using Maven (build management tool), TestNG (Unit Testing Framework), Data Driven concepts from external resources, generating Logs, Reports, Capturing Screenshots.
 
-As the test target of this project as an example used the website https​&#65279;://target.com/ to verify basic functionalities: Login, Home page, Search Product, List of products and product forms, Checkout validation.
+At the moment, the added tests have been directed to verify only the basic functionalities as Login, Home page, Search Product, List of products and product forms, Checkout validation.
 
 <b><h3>[AppiumFramework](https://github.com/andrey-yudin-7/AppiumFramework)</b></h3>
 Appium test automation project built using Java, Maven (build management tool) with Page Object Mechanism (designing patterns for tests development), TestNG (Unit Testing Framework), Cucumber, Data Driven concepts from external resources, generating Logs, Reports, Capturing Screenshots. This Framework uses the ability to run tests with TestNG or Cucumber (BDD) approaches.
