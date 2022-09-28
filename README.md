@@ -2,6 +2,9 @@
 
 I really enjoy to work on test automation, discover new approaches on improving things. You can check out test automation frameworks that I built with detailed descriptions on my [repo page](https://github.com/andrey-yudin-7?tab=repositories):
 
+<b><h3><a href="https://github.com/andrey-yudin-7/CypressAPIFramework" target="_blank">/CypressAPIFramework</a></b></h3>
+Cypress Javascript based project for API test automation built using Data Driven concepts for API resources and Data payload for requests in JSON format from external resources with generating reports, updating configs for recording results in Cypress dashboard.
+
 <b><h3><a href="https://github.com/andrey-yudin-7/CypressWebFramework" target="_blank">CypressWebFramework</a></b></h3>
 Cypress Javascript based project with Page Object Pattern Mechanism (designing patterns for tests development) built using Data Driven concepts from external resources, generating Reports, Screenshots and video recording.
 
