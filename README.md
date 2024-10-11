@@ -1,8 +1,8 @@
 ### <b><h3>Hi there, I'm Andrey 👋</b></h3> 
 
-This is a kind of my portfolio created mainly to reflect and consolidate my own skills in test automation for myself and to make it easier to restore them in the future if necessary.
+This is a kind of my portfolio, created mainly at the beginning to reflect and consolidate my own skills in test automation for myself and to make it easier to restore them in the future if necessary.
 
-Not all of my experience is presented here, mostly some basic points and general useful scenarios.
+Of course, this is not my entire experience, but mostly some basic points, approaches and general useful scenarios for which I had enough time to reflect here.
 
 You can check out test automation frameworks I've created with detailed descriptions on [Repo](https://github.com/andrey-yudin-7?tab=repositories) page:
 
