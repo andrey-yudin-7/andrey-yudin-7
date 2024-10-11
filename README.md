@@ -4,7 +4,7 @@ This is a kind of my portfolio created mainly to reflect and consolidate my own 
 
 Not all of my experience is presented here, mostly some basic points and general useful scenarios.
 
-You can check out test automation frameworks that I've created with detailed descriptions on [Repo](https://github.com/andrey-yudin-7?tab=repositories) page:
+You can check out test automation frameworks I've created with detailed descriptions on [Repo](https://github.com/andrey-yudin-7?tab=repositories) page:
 
 <b><h3><a href="https://github.com/andrey-yudin-7/CypressAPIFramework" target="_blank">CypressAPIFramework</a></b></h3>
 Cypress Javascript based project for API test automation built using Data Driven concepts for API resources and Data payload for requests in JSON format from external resources with generating reports, updating configs for recording results in Cypress dashboard.
