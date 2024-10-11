@@ -7,19 +7,19 @@ Of course, this is not my entire experience, but mostly some basic points, appro
 You can check out test automation frameworks I've created with detailed descriptions on [Repo](https://github.com/andrey-yudin-7?tab=repositories) page:
 
 <b><h3><a href="https://github.com/andrey-yudin-7/CypressAPIFramework" target="_blank">CypressAPIFramework</a></b></h3>
-Cypress Javascript based project for API test automation built using Data Driven concepts for API resources and Data payload for requests in JSON format from external resources with generating reports, updating configs for recording results in Cypress dashboard.
+Cypress <b>Javascript</b> based project for API test automation built using <b>Data Driven</b> concepts for API resources and Data payload for requests in JSON format from external resources with generating reports, updating configs for recording results in <b>Cypress</b> dashboard.
 
 <b><h3><a href="https://github.com/andrey-yudin-7/CypressWebFramework" target="_blank">CypressWebFramework</a></b></h3>
-Cypress Javascript based project with Page Object Pattern Mechanism (designing patterns for tests development) built using Data Driven concepts from external resources, generating Reports, Screenshots and video recording.
+Cypress <b>Javascript</b> based project with <b>Page Object Pattern</b> Mechanism (designing patterns for tests development) built using <b>Data Driven</b> concepts from external resources, generating Reports, Screenshots and video recording.
 
 <b><h3><a href="https://github.com/andrey-yudin-7/JiraAPIFramework" target="_blank">JiraAPIFramework</a></b></h3>
-Rest API Automation project built using Java, Maven (build management tool), Cucumber, Rest Assured dependencies, Data Driven concepts from external resources, generating Logs, Reports. As the test target of this project as an example used Atlassian Jira with Validating it's basic issue API's: the issue creating, add comment, add attachment, delete the issue.
+Rest API Automation project built using <b>Java</b>, <b>Maven</b> (build management tool), <b>Cucumber</b>, <b>Rest Assured</b> dependencies, <b>Data Driven</b> concepts from external resources, generating Logs, Reports. As the test target of this project as an example used Atlassian Jira with Validating it's basic issue API's: the issue creating, add comment, add attachment, delete the issue.
 
 <b><h3>[SeleniumFramework](https://github.com/andrey-yudin-7/SeleniumFramework)</b></h3>
-Selenium Java project with Page Object Mechanism (designing patterns for tests development) built using Maven (build management tool), TestNG (Unit Testing Framework), Data Driven concepts from external resources, generating Logs, Reports, Capturing Screenshots.
+Selenium <b>Java</b> project with Page Object Mechanism (designing patterns for tests development) built using <b>Maven</b> (build management tool), <b>TestNG</b>, <b>Data Driven concepts</b> from external resources, generating Logs, Reports, Capturing Screenshots.
 
 <b><h3>[AppiumFramework](https://github.com/andrey-yudin-7/AppiumFramework)</b></h3>
-Appium test automation project built using Java, Maven (build management tool) with Page Object Mechanism (designing patterns for tests development), TestNG (Unit Testing Framework), Cucumber, Data Driven concepts from external resources, generating Logs, Reports, Capturing Screenshots. This Framework uses the ability to run tests with TestNG or Cucumber (BDD) approaches.
+Appium test automation project built using <b>Java</b, <b>Maven</b (build management tool) with <b>age Object Mechanism</b> (designing patterns for tests development), <b>TestNG</b>, <b>Cucumber</b>, <b>Data Driven</b> concepts from external resources, generating Logs, Reports, Capturing Screenshots. This Framework uses the ability to run tests with <b>TestNG</b> or <b>Cucumber</b> (BDD) approaches.
 
 <b>Thanks for visiting!</b>
 
