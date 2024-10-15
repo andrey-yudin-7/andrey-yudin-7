@@ -4,7 +4,7 @@
 
 Welcome to my github page, created mainly at the beginning to reflect and consolidate my own skills in test automation for myself and to make it easier to restore them in the future if necessary.
 
-At his moment here is reflected my experience with <b>Javascript</b> and <b>Java</b> with modern test frameworks as <b>Cypress</b> to test web apps, mobile apps using <b>Appium, API test automation</b>, as well as Frameworks built using <b>Maven, Cucumber, TestNG, Rest Assured</b> library.
+At his moment here is reflected my experience with <b>Javascript</b> and <b>Java</b> with modern test frameworks as <b>Cypress</b> to test web apps, mobile apps using <b>Appium, API test automation</b>, as well as Selenium Frameworks built using <b>Maven, Cucumber, TestNG, Rest Assured</b> library and other dependencies.
 
 Of course, this is not my entire experience, but mostly some basic points, approaches and general useful scenarios for which I had enough time for to reflect it here.
 
