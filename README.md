@@ -1,20 +1,14 @@
 ### <b><h2>Hi there, I'm Andrey 👋</h2></b> 
-
-<hr></hr>
-<p style="text-align: center;">QA Automation Engineer</p>
-<div style="text-align: center;">Automation</div>
-
-<center><h3><b>QA Automation Engineer</b></h3></center>
-
-</hr>
+<center><b>QA Automation Engineer</b></center>
+<hr>
 
 Welcome to my github page, created mainly at the beginning to reflect and consolidate my own skills in test automation for myself and to make it easier to restore them in the future if necessary.
 
-At his moment here is reflected my experience with <b>Javascript</b> and <b>Java</b> with modern test frameworks as <b>Cypress</b> to test web apps, mobile apps using Appium, API test automation, as well as Frameworks built using <b>Maven, Cucumber, TestNG, Rest Assured</b> library.
+At his moment here is reflected my experience with <b>Javascript</b> and <b>Java</b> with modern test frameworks as <b>Cypress</b> to test web apps, mobile apps using <b>Appium, API test automation</b>, as well as Frameworks built using <b>Maven, Cucumber, TestNG, Rest Assured</b> library.
 
 Of course, this is not my entire experience, but mostly some basic points, approaches and general useful scenarios for which I had enough time for to reflect it here.
 
-You can check out test automation frameworks I've created with detailed descriptions on [Repo](https://github.com/andrey-yudin-7?tab=repositories) page:
+You can check out test automation frameworks I've created from scratch with detailed descriptions on [Repo](https://github.com/andrey-yudin-7?tab=repositories) page:
 
 <b><h3><a href="https://github.com/andrey-yudin-7/CypressAPIFramework" target="_blank">CypressAPIFramework</a></b></h3>
 Cypress <b>Javascript</b> based project for API test automation built using Data Driven concepts for API resources and Data payload for requests in JSON format from external resources with generating reports, updating configs for recording results in <b>Cypress</b> dashboard.
