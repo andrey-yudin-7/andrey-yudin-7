@@ -1,4 +1,4 @@
-### <b><h2>Hi there, I'm Andrey 👋</h2></b> 
+### <b><h2>Hi 👋, I'm Andrey </h2></b> 
 <center><b>QA Automation Engineer</b></center>
 <hr>
 
