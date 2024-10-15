@@ -1,8 +1,14 @@
-### <b><h3>Hi there, I'm Andrey 👋</b></h3> 
+### <b><h2>Hi there, I'm Andrey 👋</h2></b> 
 
-This is a kind of my portfolio, created mainly at the beginning to reflect and consolidate my own skills in test automation for myself and to make it easier to restore them in the future if necessary.
+<hr></hr>
 
-Of course, this is not my entire experience, but mostly some basic points, approaches and general useful scenarios for which I had enough time to reflect here.
+<h3><b><center>QA Automation Engineer</center></b></h3>
+
+Welcome to my github page, created mainly at the beginning to reflect and consolidate my own skills in test automation for myself and to make it easier to restore them in the future if necessary.
+
+At his moment here is reflected my experience with <b>Javascript</b> and <b>Java</b> with modern test frameworks as <b>Cypress</b> to test web apps, mobile apps using Appium, API test automation, as well as Frameworks built using <b>Maven, Cucumber, TestNG, Rest Assured</b> library.
+
+Of course, this is not my entire experience, but mostly some basic points, approaches and general useful scenarios for which I had enough time for to reflect it here.
 
 You can check out test automation frameworks I've created with detailed descriptions on [Repo](https://github.com/andrey-yudin-7?tab=repositories) page:
 
