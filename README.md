@@ -1,8 +1,12 @@
 ### <b><h2>Hi there, I'm Andrey 👋</h2></b> 
 
 <hr></hr>
+<p style="text-align: center;">QA Automation Engineer</p>
+<div style="text-align: center;">Automation</div>
 
-<h3><b><center>QA Automation Engineer</center></b></h3>
+<center><h3><b>QA Automation Engineer</b></h3></center>
+
+</hr>
 
 Welcome to my github page, created mainly at the beginning to reflect and consolidate my own skills in test automation for myself and to make it easier to restore them in the future if necessary.
 
