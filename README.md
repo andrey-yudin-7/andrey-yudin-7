@@ -6,7 +6,7 @@ Welcome to my github page, created mainly at the beginning to reflect and consol
 
 At his moment here is reflected my experience with <b>Javascript</b> and <b>Java</b> with modern test frameworks as <b>Cypress</b> to test web apps, mobile apps using <b>Appium, API test automation</b>, as well as Selenium Frameworks built using <b>Maven, Cucumber, TestNG, Rest Assured</b> library and other dependencies.
 
-Of course, this is not my entire experience, but mostly some basic points, approaches and general useful scenarios for which I had enough time for to reflect it here.
+Of course, this is not my entire experience, but mostly some basic points, approaches and general useful scenarios for which I had enough time to reflect here.
 
 You can check out test automation frameworks I've created from scratch with detailed descriptions on [Repo](https://github.com/andrey-yudin-7?tab=repositories) page:
 
